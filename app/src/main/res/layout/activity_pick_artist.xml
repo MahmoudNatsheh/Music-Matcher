@@ -1,0 +1,265 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:layout_centerHorizontal="true"
+android:background="@drawable/background"
+android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        android:layout_marginLeft="40dp"
+        android:layout_weight="1"
+        android:fontFamily="serif"
+        android:text="Pick Artist"
+        android:textColor="#FF9800"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:layout_marginLeft="40dp"
+        android:layout_weight="1"
+        android:text="Country"
+        android:textColor="#FF9800"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <CheckBox
+        android:id="@+id/Tim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_weight="1"
+        android:minHeight="48dp"
+        android:text="Tim_McGraw"
+        android:textColor="#FFEB3B"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:ignore="TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/George"
+    android:layout_width="293dp"
+    android:layout_height="58dp"
+    android:layout_weight="1"
+    android:text="George Strait"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold" />
+
+<CheckBox
+    android:id="@+id/Garth"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="Garth Brooks"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/Carrie"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="Carrie Underwood"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:layout_marginLeft="40dp"
+        android:layout_weight="1"
+        android:text="Jazz"
+        android:textColor="#FF9800"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+<CheckBox
+    android:id="@+id/Miles"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="Miles Davis"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/John"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="John Coltrane"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/Duke"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="Duke Ellington"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/Louis"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="Louis Armstrong"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_marginLeft="40dp"
+        android:layout_weight="1"
+        android:text="Rock"
+        android:textColor="#FF9800"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+<CheckBox
+    android:id="@+id/Beetles"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="The Beetles"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/Rolling"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text=" The Rolling Stone"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/U2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="U2"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/Grateful"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="The Grateful Dead"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:layout_marginLeft="40dp"
+        android:layout_weight="1"
+        android:text="Pop"
+        android:textColor="#FF9800"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+<CheckBox
+    android:id="@+id/Taylor"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="Taylor Swift"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/Justin"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="Justin Bieber"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/Ariana"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="48dp"
+    android:text="Ariana Grande"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="TouchTargetSizeCheck" />
+
+<CheckBox
+    android:id="@+id/Selena"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:text="Selena Gomez"
+    android:textColor="#FFEB3B"
+    android:textSize="20sp"
+    android:textStyle="bold" />
+
+<Button
+    android:id="@+id/submit"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Submit"
+    android:textColor="#FFEB3B"
+    android:textStyle="bold"
+    android:onClick="picked_artists"/>
+
+
+</LinearLayout>

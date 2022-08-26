@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080074901653",
+    "firebase_url": "https://music-matcher-ea560-default-rtdb.firebaseio.com",
+    "project_id": "music-matcher-ea560",
+    "storage_bucket": "music-matcher-ea560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080074901653:android:89f6c0a5d5d805cb34239c",
+        "android_client_info": {
+          "package_name": "com.example.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080074901653-7ekdrh1fd3dnd2dtsjaer1rohunmc9p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPQqI8o4jtbkeDk_A4zyBJs2EZgZ_LqOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080074901653-7ekdrh1fd3dnd2dtsjaer1rohunmc9p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

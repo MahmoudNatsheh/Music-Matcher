@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Music Matcher</string>
+
+    <string-array name="name">
+        <item>Drake</item>
+        <item>Juice WRLD</item>
+        <item>Billie Elish</item>
+        <item>Ariana Grande</item>
+        <item>Talor Swift</item>
+        <item>The Weeknd</item>
+        <item>Maroon 5</item>
+        <item>AC/DC</item>
+        <item>Post Malone</item>
+        <item>DaBaby</item>
+        <item>Justin Bieber</item>
+        <item>Harry Styles</item>
+        <item>Seventeen</item>
+        <item>Chris Brown</item>
+        <item>Cardi B</item>
+        <item>Lil Baby</item>
+    </string-array>
+</resources>
